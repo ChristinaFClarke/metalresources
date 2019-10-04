@@ -20,6 +20,7 @@
     <td>Venice, 1559</td>
     <td>https://archive.org/details/bub_gb_TTQ6AAAAcAAJ/page/n3 </td>
   </tr>
+  <tr>
     <td> 1678</td>
     <td></td>
   </tr>
