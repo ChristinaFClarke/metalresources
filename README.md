@@ -25,6 +25,6 @@
   </tr>
   <tr>
    <td>1943</td>
-   <td>(English) <i>The Pirotechnia of Vannoccio Biringuccio, Translated from the Italian with an Introduction by Cyril Stanley Smith and Martha Teach Gnudi</i> New York: American Institute of Mining and Metallurgical Engineers, 1942, repr. 1959.</td>
+   <td>(English) <i>The Pirotechnia of Vannoccio Biringuccio, Translated from the Italian with an Introduction by Cyril Stanley Smith and Martha Teach Gnudi</i>. New York: American Institute of Mining and Metallurgical Engineers, 1942, repr. 1959.</td>
   </tr>
 </table>
